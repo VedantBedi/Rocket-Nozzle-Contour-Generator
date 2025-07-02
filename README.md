@@ -1,6 +1,6 @@
 # Rocket Nozzle Generator
 
-This Python project generates rocket nozzle contours using the Method of Characteristics (MOC). It calculates the throat diameter from mass flow rate and propulsion inputs, creates a nozzle profile, and exports contour data to a CSV file.
+This Python project generates rocket nozzle contours using the Method of Characteristics (MOC). It calculates the throat diameter from mass flow rate and propulsion inputs, creates a nozzle profile, and exports contour data to a CSV file. This also has a dusion script so that we can get the model straight in Fusion360.
 
 ## Features
 - Calculates throat diameter
